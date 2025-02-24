@@ -5,7 +5,7 @@ body,html{
 
 /*------------- HEADER- start --------*/
     .header{
-        height: 14vh;
+        height: 108px;
         /* margin-bottom: 5%; */
         position: fixed;
         width: 100%;
@@ -24,9 +24,10 @@ body,html{
         width: 100%;
         display: inline-flex;
     }
-    .header .row .col-lg-3{
+    .header .row .col-lg-3-t{
         width: 35%;
         height: 100%;
+        margin-top: 8px;
     }
     .header .row .col-lg-4{
         width: 100%;
@@ -139,7 +140,7 @@ body,html{
         .container-1{
             margin: 0;
             background-color: black;
-            height: 120vh;
+            height: 130vh;
             width: 100%;
             margin-top: 100px;
             /* border: 2px solid grey; */
@@ -345,9 +346,9 @@ background-image: url();
                 background-color: red;
                 margin-top: 20px;
             }
-            .container-4 .row .col-lg-2{
+            /* .container-4 .row .col-lg-2{
 
-            }
+            } */
             .container-4 .row .col-lg-2 .img-1{
                 height: 40px;
                 padding: 1px 11px;
@@ -497,7 +498,7 @@ background-image: url();
 
 /*----- CONTAINER-6 start -------------*/  
 .container-6 {
-    height: 90vh;
+    height: 75vh;
     
     /* border: 2px solid rgb(0, 0, 0); */
     /* background-image: url('Images-GOFLYAirways/world-map-2.jpeg'); */
@@ -532,20 +533,19 @@ background-image: url();
         padding: 1px 11px;
     }
     .container-6 .row-1{
-        width: 70%;
-        height: 500px;
-        border: 2px solid black;
-        margin-left: 14%;
+        width: 78%;
+        height: 350px;
+        background-color: black;
+        /* border: 2px solid black; */
+        color: white;
+        margin-left: 11%;
         display: inline-flex;
     }
     .container-6 .row-1 .col-lg-6{
         width: 50%;
-        height: 500px;
-        border: 1px solid red;
+        height: 350px;
+        /* border: 1px solid red; */
     }
     .container-6 .row-1 .col-lg-6 .FlyingPlane{
         height: 350px;
         width: 100%;
-    }
-
-/*----- CONTAINER-6 end -------------*/     

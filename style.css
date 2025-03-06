@@ -319,7 +319,7 @@ background-image: url();
             .container-4{
                 margin: 0;
                 background-color: white;
-                height: 205vh;
+                height: 200vh;
                 width: 100%;
                 margin-top: px;
                 /* border: 1px solid black; */
@@ -454,7 +454,7 @@ background-image: url();
 
 /*----- CONTAINER-5 start -------------*/  
 .container-5 {
-    height: 59vh;
+    height: 69vh;
     
     background-image: url('Images-GOFLYAirways/world-map.jpg');
     background-attachment: fixed;

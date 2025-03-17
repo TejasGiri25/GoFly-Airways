@@ -655,7 +655,7 @@ background-image: url();
         opacity: 0.8;
         position: absolute;
         top: 1px;
-        left: 1px;
+        /* left: 1px; */
         width: 99.9%;
         height: 71vh;
     }
@@ -747,7 +747,7 @@ background-image: url();
         height: 45px;
         width: 100%;
         background-color: rgb(245, 0, 0);
-        margin-top: 66px;
+        margin-top: 46px;
         /* margin-bottom: -41px; */
     }
         
